@@ -33,6 +33,9 @@ Using the NYC Citibike data, multiple graphs were created using tableau to visua
 ![Top starting Locations](https://user-images.githubusercontent.com/108298416/193437131-c310b76d-f5d5-4776-b1ea-a180972d264b.PNG)
 
 ## Summary
+The NYC CitiBike story and the charts in tableau can be seen in the following Tableau page.
+https://public.tableau.com/app/profile/ruba8664/viz/NYC_Citibike_Challenge_16644926917460/NYCCitibikeStory?publish=yes
+
 1. NYC CitiBike offers some great bike riding experience for tourists and daily commuters. The bike rides in August is 2,344,224 and most of the trips are 60 minutes maximum.
 
 ![Checkout time for Users](https://user-images.githubusercontent.com/108298416/193437234-382c2e3c-e820-43c9-9a92-a4c0696cadd3.PNG)
