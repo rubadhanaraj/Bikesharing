@@ -1,4 +1,4 @@
-# Bikesharing
+# NYC CitiBike
 ## Overview 
 The purpose of this project is to analyse and visualise the New York City citibike data to implement the bike sharing concept in other major cities, using Tableau. In this project, the objectives were to,
 * Import data into Tableau.
